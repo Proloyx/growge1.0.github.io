@@ -8385,3 +8385,8 @@ License - nucleoapp.com/license/
 #how{
   background-color: white;
 }
+
+.animate__slideInUp{
+  animation: bounce; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2s;
+}
