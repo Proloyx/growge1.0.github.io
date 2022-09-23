@@ -6817,6 +6817,9 @@ License - nucleoapp.com/license/
   background: linear-gradient(to bottom, #2990ae 35%, #38c1d3 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+
+  animation: slideInUp;
+  animation-duration: 1s;
 }
 
 .presentation-subtitle {
@@ -8377,4 +8380,8 @@ License - nucleoapp.com/license/
   position: relative;
   content: ' ';
   z-index: -1;
+}
+
+#how{
+  background-color: white;
 }
