@@ -17,7 +17,7 @@
     flex-wrap: wrap;
     justify-content: space-around;
     width: 100%;
-    background-color: orange;
+    /* background-color: orange; */
 }
 .about-left{
     width: 45%;
