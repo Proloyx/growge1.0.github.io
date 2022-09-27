@@ -8419,7 +8419,6 @@ License - nucleoapp.com/license/
     transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
     transition: all 1s;
     border-radius: 30px;
-    
 }
 .about-right{
     width: 45%;
@@ -8427,7 +8426,6 @@ License - nucleoapp.com/license/
     transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
     transition: all 1s;
     border-radius: 30px;
-    
 }
 .about-left:hover{
     box-shadow: inset 0 200px 1000px 0 #2990ae;
