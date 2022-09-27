@@ -8448,3 +8448,7 @@ License - nucleoapp.com/license/
     .about-left{width: 100%;}
   }
   
+  .ml-auto, .mx-auto {
+    margin: auto !important;
+    padding-left: 500px;
+  }
