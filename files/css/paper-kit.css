@@ -8434,24 +8434,18 @@ License - nucleoapp.com/license/
     color: white;
     transform: scale(1.1);
     border-radius: 30px;
-    padding-bottom: 20px;
 }
 .about-right:hover{
     box-shadow: inset 0 200px 1000px 0 #2990ae;
     color: white;
     transform: scale(1.1);
     border-radius: 30px;
-    padding-bottom: 20px;
   }
 #paddown{
-    padding-bottom: 23px;
+    padding-bottom: 50px;
 }
 @media screen and (max-width: 768px) {
     .about-right{width: 100%;}
     .about-left{width: 100%;}
   }
   
-  .ml-auto, .mx-auto {
-    margin: auto !important;
-    padding-left: 500px;
-  }
