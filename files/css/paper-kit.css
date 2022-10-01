@@ -8447,7 +8447,3 @@ License - nucleoapp.com/license/
     .about-left{width: 100%;}
   }
   
-  html, body{
-    max-width: 100% !important;
-    overflow-x: hidden;
-  }
