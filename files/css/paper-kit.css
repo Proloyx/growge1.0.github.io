@@ -8447,3 +8447,10 @@ License - nucleoapp.com/license/
     .about-left{width: 100%;}
   }
   
+  .body{
+    display: inline-block;
+    margin: 0 0.5rem;
+    animation: bounce; 
+    animation-duration: 2s;
+  }
+  
