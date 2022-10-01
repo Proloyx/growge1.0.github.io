@@ -8447,7 +8447,7 @@ License - nucleoapp.com/license/
     .about-left{width: 100%;}
   }
   
-  .body{
+  .animate__fadeInUp{
     display: inline-block;
     margin: 0 0.5rem;
     animation: bounce; 
