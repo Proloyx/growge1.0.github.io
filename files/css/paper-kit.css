@@ -8427,7 +8427,7 @@ License - nucleoapp.com/license/
     transition: all 1s;
     border-radius: 30px;
 }
-.about-left:hover{
+/*.about-left:hover{
     box-shadow: inset 0 200px 1000px 0 #2990ae;
     color: white;
     transform: scale(1.1);
@@ -8438,7 +8438,7 @@ License - nucleoapp.com/license/
     color: white;
     transform: scale(1.1);
     border-radius: 30px;
-  }
+  }*/
 #paddown{
     padding-bottom: 50px;
 }
